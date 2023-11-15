@@ -1,0 +1,22 @@
+h3{
+  color: white;
+  margin-left: 5%;
+}
+
+.mainBlock{
+  display: flex;
+  width: 70%;
+}
+
+.block{
+background: white;
+margin-left: 2%;
+width: 25%;
+border-radius: 15px;
+padding: 2px;
+
+}
+p{
+  margin: 0;
+ font-weight: 900;
+}
